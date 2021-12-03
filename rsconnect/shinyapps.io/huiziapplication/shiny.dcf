@@ -1,0 +1,13 @@
+name: shiny
+title: shiny
+username:
+account: huiziapplication
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5262925
+bundleId: 5324999
+url: https://huiziapplication.shinyapps.io/shiny/
+when: 1638565299.1702
+lastSyncTime: 1638565299.17021
+asMultiple: FALSE
+asStatic: FALSE

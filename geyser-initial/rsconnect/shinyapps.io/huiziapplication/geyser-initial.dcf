@@ -1,0 +1,13 @@
+name: geyser-initial
+title: geyser-initial
+username:
+account: huiziapplication
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5262862
+bundleId: 5324845
+url: https://huiziapplication.shinyapps.io/geyser-initial/
+when: 1638561889.83963
+lastSyncTime: 1638561889.83964
+asMultiple: FALSE
+asStatic: FALSE
